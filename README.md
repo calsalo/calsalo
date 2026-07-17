@@ -14,6 +14,10 @@ I use Python for modeling and analysis, and I am currently adding C++ systems pr
 
 ## Featured Projects
 
+### [C++ Limit Order Book](https://github.com/calsalo/cpp-limit-order-book)
+
+C++20 matching engine with price-time priority, limit and market orders, cancels, modify priority rules, depth snapshots, CSV replay, benchmarks, and unit tests.
+
 ### [NBA Shot Simulator](https://github.com/calsalo/NBA-Shot-Simulator)
 
 Physics simulation comparing basketball shot trajectories across NBA arenas with different air densities. Uses numerical ODE solving and visualizes trajectory differences near the rim.
@@ -25,18 +29,6 @@ Command-line market-data tool that compares CS2 item prices between Steam Market
 ### [Dow Jones Monte Carlo Simulator](https://github.com/calsalo/DOWJONES-Diffusion-Model)
 
 Monte Carlo simulator for one-year Dow Jones price paths using Geometric Brownian Motion and Poisson jump diffusion.
-
-## Building Next
-
-I am building a C++ limit order book and matching engine with:
-
-- Limit and market orders
-- Price-time priority
-- Cancels and modifies
-- Order book snapshots
-- Market-data replay
-- Throughput benchmarks
-- Unit tests and CI
 
 ## Tools
 
